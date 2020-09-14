@@ -4,7 +4,20 @@ sections:
   - type: section_hero
     title: Welcome to my JAMStack Project
     section_id: hero
-    content: Copy content is in the works and coming soon.
+    content: >-
+      
+
+      ## What is JAMstack
+
+
+      JAM stands for JavaScript, API & Markup.
+
+
+      > "A modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup"
+
+      >
+
+      > — Mathias Biilmann (CEO & Co-founder of Netlify).
     image: /images/jamstack-logo-a.png
     actions:
       - type: action
