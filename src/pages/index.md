@@ -21,7 +21,7 @@ sections:
     image: /images/jamstack-logo-a.png
     actions:
       - type: action
-        label: Learn More
+        label: About This Project
         url: /features
         primary: true
   - type: section_features
