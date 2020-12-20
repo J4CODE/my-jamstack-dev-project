@@ -53,7 +53,7 @@ sections:
 
 
           Including server-side processes which are abstracted into microservice APIs, surface areas for attacks that are greatly reduced. The domain expertise of specialist third-party services can also be leveraged.
-        image: images/feature2.png
+        image: /images/jamstack-security.jpg
         actions:
           - type: action
             label: Learn More
