@@ -4,7 +4,7 @@ sections:
   - type: section_pricing
     title: Our SEO Pricing Plans
     section_id: pricing
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: This is where an amazing description goes.
     background: gray
     pricing_plans:
       - type: pricing_plan
