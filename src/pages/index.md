@@ -76,7 +76,7 @@ sections:
     actions:
       - type: action
         label: Learn More
-        url: /https://jamstack.org/community/
+        url: https://jamstack.org/community
         primary: true
         new_window: true
 template: landing
