@@ -41,7 +41,7 @@ sections:
 
 
           The Jamstack architecture is great for building a large e-commerce sites, SaaS application or personal blog.
-        image: /images/code-pc-lg.png
+        image: /images/building-with-jamstack.jpg
         actions:
           - type: action
             label: Learn More
