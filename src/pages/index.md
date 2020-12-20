@@ -49,7 +49,7 @@ sections:
           With the JAMStack there is also a high level of security.
 
 
-          Including server-side processes which are abstracted into microservice APIs, surface areas for attacks that are greatly are reduced. The domain expertise of specialist third-party services can also be leveraged.
+          Including server-side processes which are abstracted into microservice APIs, surface areas for attacks that are greatly reduced. The domain expertise of specialist third-party services can also be leveraged.
         image: images/feature2.png
         actions:
           - type: action
