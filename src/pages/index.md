@@ -94,7 +94,7 @@ sections:
         url: /signup
         primary: true
   - type: section_posts
-    title: Latest Posts
+    title: Our Latest Dev Posts
     section_id: recent-posts
     background: gray
 template: landing
