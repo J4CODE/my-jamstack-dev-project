@@ -26,9 +26,8 @@ sections:
         primary: true
   - type: section_features
     title: JAMStack
-    section_id: A Modern Way to Build Websites and Apps
-    subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a
-      metus quis lorem malesuada luctus.
+    section_id: Features Title
+    subtitle: A Modern Way to Build Websites and Apps
     background: gray
     features:
       - type: feature_item
