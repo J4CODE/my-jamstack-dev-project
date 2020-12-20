@@ -26,7 +26,7 @@ sections:
           * Everything included in the Basic Plan
           * National SEO
           * Google AdWords
-          * Social Merdia Advertising
+          * Social Media Advertising
         highlight: true
         actions:
           - type: action
