@@ -69,13 +69,15 @@ sections:
             label: Learn More
             url: /features
   - type: section_cta
-    title: Awesome Title
+    title: Join the global JAMStack community
     section_id: call-to-action
-    subtitle: An amazing description for this code block is coming soon.
+    subtitle: Our communiJoin the community to exchange ideas, find new
+      opportunities and help build a better web.
     actions:
       - type: action
-        label: Get Started
-        url: /signup
+        label: Learn More
+        url: /https://jamstack.org/community/
         primary: true
+        new_window: true
 template: landing
 ---
