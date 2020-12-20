@@ -5,7 +5,7 @@ sections:
     title: ""
     section_id: hero
     content: >-
-      ![](/images/code-pc-lg.png)
+      ![]()
 
 
       ## **Welcome to my JAMStack Project.**
