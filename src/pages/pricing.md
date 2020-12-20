@@ -23,7 +23,7 @@ sections:
         title: Professional
         price: $125/m
         details: |
-          * Everything included in the Basic plan,, Pro Plan
+          * Everything included in the Basic Plan
           * National SEO
           * Google AdWords
           * Social Merdia Advertising
