@@ -26,7 +26,7 @@ sections:
         primary: true
   - type: section_features
     title: Features
-    section_id: features
+    section_id: A Modern Way to Build Websites and Apps
     subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a
       metus quis lorem malesuada luctus.
     background: gray
