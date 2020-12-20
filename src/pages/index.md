@@ -63,7 +63,7 @@ sections:
         content: When building Jamstack websites, everything can be cached in a content
           delivery network which makes deployments simple and efficient, with
           built-in redundancy and incredible speed and load capacity.
-        image: images/feature3.png
+        image: /images/scaling-jamstack.jpg
         actions:
           - type: action
             label: Learn More
