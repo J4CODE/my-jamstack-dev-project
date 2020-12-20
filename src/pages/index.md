@@ -32,10 +32,12 @@ sections:
     background: gray
     features:
       - type: feature_item
-        title: The Best Feature of Your Services
-        content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        title: Building With The Jamstack
+        content: >-
+          There are many benefits when building with the JAMStack.
+
+
+          The Jamstack architecture is great for building a large e-commerce site, SaaS application or personal blog.
         image: images/feature1.png
         actions:
           - type: action
