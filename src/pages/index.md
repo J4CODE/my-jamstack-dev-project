@@ -56,10 +56,10 @@ sections:
             label: Learn More
             url: /features
       - type: feature_item
-        title: Cool Feature of Your Services
-        content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        title: Easy To Scale
+        content: When building Jamstack websites, everything can be cached in a content
+          delivery network which makes deployments simple and efficient, with
+          built-in redundancy and incredible speed and load capacity.
         image: images/feature3.png
         actions:
           - type: action
