@@ -5,7 +5,8 @@ sections:
     title: Welcome to my JAMStack Project
     section_id: hero
     content: >-
-      
+      ![](/images/code-pc-lg.png)
+
 
       ## What is JAMstack
 
