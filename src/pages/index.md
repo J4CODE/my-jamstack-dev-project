@@ -69,9 +69,9 @@ sections:
             label: Learn More
             url: /features
   - type: section_cta
-    title: This Is Call To Action Block!
+    title: Awesome Title
     section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
+    subtitle: An amazing description for this code block is coming soon.
     actions:
       - type: action
         label: Get Started
