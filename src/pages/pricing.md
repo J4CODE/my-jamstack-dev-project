@@ -11,10 +11,10 @@ sections:
         title: Basic
         price: $75/m
         details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+          * Search Engine Optimization
+          * Local SEO
+          * Free SEO Audit
+          * Free PPC Audit
         actions:
           - type: action
             label: Order Now
@@ -23,11 +23,14 @@ sections:
         title: Professional
         price: $125/m
         details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae
-          * Nullam sollicitudin ante
+          * Everything included in the Basic plan,, Pro Plan
+          * National SEO
+          * Enterprise SEO
+          * Google AdWords
+          * B2B SEO SErvioces
+          * Social Merdia Advertising
+          * Enterprise Business Email Marketing
+          * Professional Web Dvelopment
         highlight: true
         actions:
           - type: action
@@ -38,7 +41,7 @@ sections:
         title: Enterprise
         price: $175/m
         details: |-
-          * Vestibulum non eros quis
+          * Search Engine Optimization
           * Aenean iaculis lorem
           * Mauris eleifend sapien
           * Phasellus lobortis risus
