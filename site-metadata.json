@@ -43,24 +43,24 @@
     "social_links": [
       {
         "type": "action",
+        "label": "Linkedin",
+        "url": "https://www.linkedin.com/in/rjay-ortiz",
+        "new_window": true
+      },
+      {
+        "type": "action",
+        "label": "GitHub",
+        "url": "https://github.com/J4CODE",
+        "new_window": true
+      },
+      {
+        "type": "action",
         "label": "Twitter",
-        "url": "https://twitter.com/",
-        "new_window": true
-      },
-      {
-        "type": "action",
-        "label": "Instagram",
-        "url": "https://www.instagram.com/",
-        "new_window": true
-      },
-      {
-        "type": "action",
-        "label": "LinkedIn",
-        "url": "https://www.linkedin.com/",
+        "url": "https://twitter.com/oz4code?lang=en",
         "new_window": true
       }
     ],
-    "tagline": "SaaS theme by Stackbit",
+    "tagline": "Coding the future.",
     "logo_img": "/images/justcooldevs-logo-white.png",
     "has_social": true,
     "content": "2020 &copy;",
