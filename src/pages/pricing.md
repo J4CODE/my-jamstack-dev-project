@@ -22,15 +22,11 @@ sections:
       - type: pricing_plan
         title: Professional
         price: $125/m
-        details: |-
+        details: |
           * Everything included in the Basic plan,, Pro Plan
           * National SEO
-          * Enterprise SEO
           * Google AdWords
-          * B2B SEO SErvioces
           * Social Merdia Advertising
-          * Enterprise Business Email Marketing
-          * Professional Web Dvelopment
         highlight: true
         actions:
           - type: action
@@ -41,10 +37,10 @@ sections:
         title: Enterprise
         price: $175/m
         details: |-
-          * Search Engine Optimization
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus
+          * Everything included in the Basic plan & Pro Plan
+          * Enterprise SEO
+          * Professional Web Dvelopment
+          * B2B SEO Services
         actions:
           - type: action
             label: Order Now
