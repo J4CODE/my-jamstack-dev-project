@@ -37,7 +37,7 @@ sections:
           There are many benefits when building with the JAMStack.
 
 
-          The Jamstack architecture is great for building a large e-commerce site, SaaS application or personal blog.
+          The Jamstack architecture is great for building a large e-commerce sites, SaaS application or personal blog.
         image: images/feature1.png
         actions:
           - type: action
