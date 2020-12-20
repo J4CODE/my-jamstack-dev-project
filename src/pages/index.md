@@ -44,10 +44,12 @@ sections:
             label: Learn More
             url: /features
       - type: feature_item
-        title: Awesome Feature of Your Services
-        content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        title: What About Security?
+        content: >-
+          With the JAMStack there is also a high level of security.
+
+
+          Including server-side processes which are abstracted into microservice APIs, surface areas for attacks that are greatly are reduced. The domain expertise of specialist third-party services can also be leveraged.
         image: images/feature2.png
         actions:
           - type: action
