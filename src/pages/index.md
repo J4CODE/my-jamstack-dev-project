@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: section_hero
-    title: Welcome to my JAMStack Project
+    title: ""
     section_id: hero
     content: >-
       Welcome to my JAMStack Project
