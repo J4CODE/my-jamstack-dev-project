@@ -71,8 +71,8 @@ sections:
   - type: section_cta
     title: Join the global JAMStack community
     section_id: call-to-action
-    subtitle: Our communiJoin the community to exchange ideas, find new
-      opportunities and help build a better web.
+    subtitle: Join the community to exchange ideas, find new opportunities and help
+      build a better web.
     actions:
       - type: action
         label: Learn More
