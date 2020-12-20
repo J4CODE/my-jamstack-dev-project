@@ -62,7 +62,7 @@
     "links": [
       {
         "type": "action",
-        "label": "Made with the JAMStack",
+        "label": "Built with the JAMStack",
         "url": "https://jamstack.org",
         "new_window": true
       }
