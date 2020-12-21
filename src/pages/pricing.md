@@ -18,7 +18,7 @@ sections:
         actions:
           - type: action
             label: Order Now
-            url: /signup
+            url: /home
       - type: pricing_plan
         title: Professional
         price: $125/m
@@ -31,7 +31,7 @@ sections:
         actions:
           - type: action
             label: Order Now
-            url: /signup
+            url: /home
             primary: true
       - type: pricing_plan
         title: Enterprise
@@ -44,7 +44,7 @@ sections:
         actions:
           - type: action
             label: Order Now
-            url: /signup
+            url: /home
   - type: section_faq
     title: Frequently Asked Questions
     section_id: faq
