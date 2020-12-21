@@ -2,7 +2,7 @@
 title: Features
 sections:
   - type: section_content
-    title: JAMstack. Revolutionizing the Web and App development workflow.
+    title: JAMStack. Revolutionizing the Web and App development workflow.
     section_id: features
     content: >-
       Revolutionizing the way we think about workflow by providing a better
