@@ -30,12 +30,13 @@ sections:
         url: https://www.onepeloton.com/
         new_window: true
   - type: section_cta
-    title: This Is Call to Action Block!
+    title: Explore More Live Jamstack-Powered Projects
     section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Explore a selection of example Jamstack sites contributed by the community.
     actions:
       - type: action
-        label: Get Started
-        url: "#"
+        label: More Examples
+        url: https://jamstack.org/examples/
+        new_window: true
 template: landing
 ---
