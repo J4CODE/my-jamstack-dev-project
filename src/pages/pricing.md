@@ -19,7 +19,7 @@ sections:
         actions:
           - type: action
             label: Order Now
-            url: home
+            url: https://justcooldevs.com
       - type: pricing_plan
         title: Professional
         price: $125/m
@@ -32,7 +32,7 @@ sections:
         actions:
           - type: action
             label: Order Now
-            url: home
+            url: https://justcooldevs.com
             primary: true
       - type: pricing_plan
         title: Enterprise
@@ -45,7 +45,7 @@ sections:
         actions:
           - type: action
             label: Order Now
-            url: home
+            url: https://justcooldevs.com
   - type: section_faq
     title: Frequently Asked Questions
     section_id: faq
