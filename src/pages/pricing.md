@@ -4,7 +4,8 @@ sections:
   - type: section_pricing
     title: Our SEO Pricing Plans
     section_id: pricing
-    subtitle: This is where an amazing description goes.
+    subtitle: Start ranking higher, earning more qualified traffic, increasing your
+      bottom line with fully-managed SEO services today.
     background: gray
     pricing_plans:
       - type: pricing_plan
