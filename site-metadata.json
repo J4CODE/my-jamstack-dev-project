@@ -72,16 +72,6 @@
     "nav_links": [
       {
         "type": "action",
-        "label": "About Us",
-        "url": "/about"
-      },
-      {
-        "type": "action",
-        "label": "Blog",
-        "url": "/blog"
-      },
-      {
-        "type": "action",
         "label": "Sign Up",
         "url": "signup"
       },
