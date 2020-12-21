@@ -21,12 +21,6 @@
         "type": "action",
         "label": "Pricing",
         "url": "/pricing"
-      },
-      {
-        "type": "action",
-        "label": "Sign Up",
-        "url": "/signup",
-        "primary": true
       }
     ]
   },
