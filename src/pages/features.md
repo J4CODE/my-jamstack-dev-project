@@ -24,9 +24,11 @@ sections:
         label: Get Started with the JAMStack
         url: https://jamstack.org/
         primary: true
+        new_window: true
       - type: action
         label: View A Live JAMStack Demo
         url: https://www.onepeloton.com/
+        new_window: true
   - type: section_cta
     title: This Is Call to Action Block!
     section_id: call-to-action
