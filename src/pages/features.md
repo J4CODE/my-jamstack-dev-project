@@ -2,33 +2,31 @@
 title: Features
 sections:
   - type: section_content
-    title: The Best Features of Your Services
+    title: JAMstack. Revolutionizing the Web and App development workflow.
     section_id: features
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      Revolutionizing the way we think about workflow by providing a better
+      developer experience. and greater scalability.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      * Better web and apps performance.
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
+      * Lower development costs.
 
-      * Phasellus ut enim non lorem venenatis rutrum.
+      * Greater scalability.
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
-    image: images/feature1.png
+      Note: JAMstack websites don't have to be static. There are great services available to help bring some dynamic data to your product.
+    image: /images/jamstack-project-main.png
     background: gray
     actions:
       - type: action
-        label: Free Trial
-        url: /signup
+        label: Get Started with the JAMStack
+        url: https://jamstack.org/
         primary: true
       - type: action
-        label: View Demo
-        url: '#'
+        label: View A Live JAMStack Demo
+        url: https://www.onepeloton.com/
   - type: section_cta
     title: This Is Call to Action Block!
     section_id: call-to-action
@@ -36,6 +34,6 @@ sections:
     actions:
       - type: action
         label: Get Started
-        url: '#'
+        url: "#"
 template: landing
 ---
