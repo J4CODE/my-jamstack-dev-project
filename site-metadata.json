@@ -66,11 +66,6 @@
     "nav_links": [
       {
         "type": "action",
-        "label": "Sign Up",
-        "url": "signup"
-      },
-      {
-        "type": "action",
         "label": "Contact",
         "url": "/contact"
       }
